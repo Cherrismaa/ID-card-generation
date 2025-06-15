@@ -4,4 +4,6 @@ ID card generation using python
 In Educational Institutions or any Organisations , handling data of huge number of students has always been a challenge. Automating several aspects of registration can help these organisations a lot and increase operational efficiency.
 
 Here are the examples of how a final generated ID Card looks like:
-![gaurav](https://github.com/user-attachments/assets/2dab0701-2700-4204-a43f-9f2490a8744c) ![user_1](https://github.com/user-attachments/assets/5b641297-b77a-427c-92c7-d88a13d26a78)
+
+![gaurav id](https://github.com/user-attachments/assets/dd2fd043-ad49-48ce-9f09-96197607c9b1)
+![Rahul ID](https://github.com/user-attachments/assets/423185f2-c4f7-4cc7-944c-de8149a8a3f7)
